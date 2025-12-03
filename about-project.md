@@ -52,5 +52,6 @@ This will contain your information! In terminal, type in pip install kaggle to d
 If you open up that json file you can view your username and KEY. 
 
 TYPE THIS INTO THE TERMINAL TO CHECK EVERYTHING IS WORKING WITH YOUR FILE.
-set KAGGLE_USERNAME= username
-set KAGGLE_KEY= key
+set KAGGLE_USERNAME= 'katharinebatista'
+set KAGGLE_KEY= 'e7cdd5410c72364310d5dafa8fecf992'
+{"username":"katharinebatista","key":"e7cdd5410c72364310d5dafa8fecf992"}
